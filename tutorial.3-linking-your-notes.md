@@ -2,13 +2,21 @@
 id: hAB2tQHsi0CGuhxz5HkTI
 title: Linking Your Notes
 desc: Note Linking and your Knowledge Graph
+<<<<<<< HEAD
 updated: 1624934268124
+=======
+updated: 1643121859756
+>>>>>>> win
 created: 1624333278136
 ---
 
 ### Links
 
+<<<<<<< HEAD
 Dendron supports links between your notes, which can help you organically connect your thoughts and build up a powerful and **personal** knowledge graph.
+=======
+Dendron supports [[recipes]] between your notes, which can help you organically connect your thoughts and build up a powerful and **personal** knowledge graph.
+>>>>>>> win
 
 > 🌱 To create a link, just start typing [[ and Dendron will show you a list of notes in your workspace that you can link to. Try it in the editor pane now.
 
