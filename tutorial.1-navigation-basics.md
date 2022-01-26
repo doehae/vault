@@ -5,6 +5,7 @@ desc: ''
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated: 1624934444826
 created: 1624332288808
 ---
@@ -31,6 +32,13 @@ created: 1624332288808
 
 Let's do a snappy overview on how to navigate the Dendron UI.
 >>>>>>> yay
+=======
+updated: 1643193647814
+created: 1624332288808
+---
+
+Let's do a snazzy overview on how to navigate the Dendron UI.
+>>>>>>> snazzy
 
 _Quick note on running commands in VS Code:_
 
