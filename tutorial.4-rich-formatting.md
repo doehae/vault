@@ -1,11 +1,7 @@
 ---
 id: vAy0awBTwDaxKGHWUdSaP
 title: Rich Formatting
-<<<<<<< HEAD
 desc: "Text Formatting, Images, Formulas, and Diagrams"
-=======
-desc: 'Text Formatting, Images, Formulas, and Diagrams'
->>>>>>> win
 updated: 1624865905667
 created: 1624352425213
 ---

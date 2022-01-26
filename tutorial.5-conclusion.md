@@ -1,11 +1,7 @@
 ---
 id: Jwq6452yNKOVw6WZhvQQd
 title: Conclusion
-<<<<<<< HEAD
 desc: ""
-=======
-desc: ''
->>>>>>> win
 updated: 1624934419858
 created: 1624332987705
 ---

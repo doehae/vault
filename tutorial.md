@@ -1,11 +1,7 @@
 ---
 id: 01u0co3RYjOM1bjpc2qIU
 title: Tutorial
-<<<<<<< HEAD
 desc: 'Tutorial Home Page'
-=======
-desc: Tutorial Home Page
->>>>>>> win
 updated: 1624864763249
 created: 1624333847315
 ---

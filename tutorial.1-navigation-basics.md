@@ -2,7 +2,6 @@
 id: vXh-HmSTsmgGA9j9IzcZh
 title: Navigation Basics
 desc: ''
-<<<<<<< HEAD
 updated: 1643195553441
 created: 1624332288808
 tags: dendron
