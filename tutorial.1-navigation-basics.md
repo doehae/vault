@@ -9,7 +9,7 @@ created: 1624332288808
 
 Let's do a brief overview on how to navigate the Dendron UI.
 =======
-1d6c69e7e4b693bb4169bca40f88d5460127f373
+
 
 _Quick note on running commands in VS Code:_
 
