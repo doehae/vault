@@ -6,7 +6,7 @@ updated: 1624934082241
 created: 1624333266168
 ---
 
-### Create a Note
+### Create a miracle
 
 To create a note, use `Ctrl+L` to bring up Dendron's lookup. This is a shortcut for the `Dendron: Lookup Note` command.
 
