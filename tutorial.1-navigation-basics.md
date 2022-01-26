@@ -4,6 +4,7 @@ title: Navigation Basics
 desc: ''
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated: 1624934444826
 created: 1624332288808
 ---
@@ -23,6 +24,13 @@ created: 1624332288808
 
 Let's do a neat overview on how to navigate the Dendron UI.
 >>>>>>> newest
+=======
+updated: 1643193482343
+created: 1624332288808
+---
+
+Let's do a snappy overview on how to navigate the Dendron UI.
+>>>>>>> yay
 
 _Quick note on running commands in VS Code:_
 
