@@ -8,11 +8,7 @@ created: 1624333278136
 
 ### Links
 
-<<<<<<< HEAD
 Dendron supports links between your notes, which can help you organically connect your thoughts and build up a powerful and **personal** knowledge graph.
-=======
-Dendron supports [[recipes]] between your notes, which can help you organically connect your thoughts and build up a powerful and **personal** knowledge graph.
->>>>>>> win
 
 > 🌱 To create a link, just start typing [[ and Dendron will show you a list of notes in your workspace that you can link to. Try it in the editor pane now.
 
