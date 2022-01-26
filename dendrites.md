@@ -7,3 +7,5 @@ created: 1643191343119
 ---
 
 :))))
+
+![Image_Description](assets/images/Mimosa_pudica.gif)
