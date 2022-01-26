@@ -1,7 +1,11 @@
 ---
 id: 01u0co3RYjOM1bjpc2qIU
 title: Tutorial
+<<<<<<< HEAD
 desc: 'Tutorial Home Page'
+=======
+desc: Tutorial Home Page
+>>>>>>> win
 updated: 1624864763249
 created: 1624333847315
 ---
@@ -12,7 +16,11 @@ This guide will help you learn the basics of Dendron. You can also follow the Ge
 
 By the end of the tutorial, you will also see how Dendron can help you manage your knowledge with super fast lookup, flexible hierarchies, and powerful linking.
 
+<<<<<<< HEAD
 If you close VS Code, you can always get back to this workspace by going to `File > Open Workspace` in VS Code's menu and then selecting your workspace file: `/home/bellyn/Dendron/dendron.code-workspace`
+=======
+If you close VS Code, you can always get back to this workspace by going to `File > Open Workspace` in VS Code's menu and then selecting your workspace file: `C:\Users\kamakawi\Dendron\dendron.code-workspace`
+>>>>>>> win
 
 The tutorial steps take about 10 minutes to complete. Let's get started!
 

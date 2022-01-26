@@ -2,11 +2,51 @@
 id: vXh-HmSTsmgGA9j9IzcZh
 title: Navigation Basics
 desc: ''
+<<<<<<< HEAD
 updated: 1643195391309
 created: 1624332288808
 ---
 
 Let's do a snazzy overview on how to navigate the Dendron UI.
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+updated: 1624934444826
+created: 1624332288808
+---
+
+Let's do a brief overview on how to navigate the Dendron UI.
+=======
+updated: 1643192725785
+created: 1624332288808
+---
+
+Let's do a thorough overview on how to navigate the Dendron UI.
+>>>>>>> win
+=======
+updated: 1643193346565
+created: 1624332288808
+---
+
+Let's do a neat overview on how to navigate the Dendron UI.
+>>>>>>> newest
+=======
+updated: 1643193482343
+created: 1624332288808
+---
+
+Let's do a snappy overview on how to navigate the Dendron UI.
+>>>>>>> yay
+=======
+updated: 1643193647814
+created: 1624332288808
+---
+
+Let's do a snazzy overview on how to navigate the Dendron UI.
+>>>>>>> snazzy
+>>>>>>> 1d6c69e7e4b693bb4169bca40f88d5460127f373
 
 _Quick note on running commands in VS Code:_
 

@@ -1,7 +1,11 @@
 ---
 id: DO_RXSlAbwNwbz-ILKoQa
 title: Taking Notes
+<<<<<<< HEAD
 desc: ""
+=======
+desc: ''
+>>>>>>> win
 updated: 1624934082241
 created: 1624333266168
 ---
