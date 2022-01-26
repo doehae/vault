@@ -3,6 +3,7 @@ id: vXh-HmSTsmgGA9j9IzcZh
 title: Navigation Basics
 desc: ''
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated: 1624934444826
 created: 1624332288808
 ---
@@ -15,6 +16,13 @@ created: 1624332288808
 
 Let's do a thorough overview on how to navigate the Dendron UI.
 >>>>>>> win
+=======
+updated: 1643193346565
+created: 1624332288808
+---
+
+Let's do a neat overview on how to navigate the Dendron UI.
+>>>>>>> newest
 
 _Quick note on running commands in VS Code:_
 
