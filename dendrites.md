@@ -2,10 +2,10 @@
 id: Ilscm1MyQfAJQx0hUJhDE
 title: Dendrites
 desc: ''
-updated: 1643194227552
+updated: 1655808254650
 created: 1643191343119
 ---
 
-:ok
+oki
 
 ![Image_Description](assets/images/Mimosa_pudica.gif)
